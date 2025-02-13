@@ -9,9 +9,16 @@
     <lastBuildDate>Wed, 12 Feb 2025 10:27:14 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Daily Blog</title>
+      <link>http://localhost:1313/categories/daily-blog/</link>
+      <pubDate>Wed, 12 Feb 2025 10:27:14 +0800</pubDate>
+      <guid>http://localhost:1313/categories/daily-blog/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Dail Blog</title>
       <link>http://localhost:1313/categories/dail-blog/</link>
-      <pubDate>Wed, 12 Feb 2025 10:27:14 +0800</pubDate>
+      <pubDate>Mon, 10 Feb 2025 10:27:14 +0800</pubDate>
       <guid>http://localhost:1313/categories/dail-blog/</guid>
       <description></description>
     </item>

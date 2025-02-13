@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog22 on 塔下生活2</title>
+    <title>Posts on 塔下生活2</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Blog22 on 塔下生活2</description>
+    <description>Recent content in Posts on 塔下生活2</description>
     <generator>Hugo</generator>
     <language>zn-ch</language>
     <lastBuildDate>Wed, 12 Feb 2025 10:27:14 +0800</lastBuildDate>
