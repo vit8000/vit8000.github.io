@@ -1,25 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 塔下生活2</title>
-    <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on 塔下生活2</description>
+    <title>Categories on 塔下生活</title>
+    <link>https://vit8000.github.io/categories/</link>
+    <description>Recent content in Categories on 塔下生活</description>
     <generator>Hugo</generator>
     <language>zn-ch</language>
-    <lastBuildDate>Thu, 13 Feb 2025 10:27:14 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Feb 2025 10:28:14 +0800</lastBuildDate>
+    <atom:link href="https://vit8000.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>书评</title>
+      <link>https://vit8000.github.io/categories/%E4%B9%A6%E8%AF%84/</link>
+      <pubDate>Fri, 14 Feb 2025 10:28:14 +0800</pubDate>
+      <guid>https://vit8000.github.io/categories/%E4%B9%A6%E8%AF%84/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Daily Blog</title>
-      <link>http://localhost:1313/categories/daily-blog/</link>
+      <link>https://vit8000.github.io/categories/daily-blog/</link>
       <pubDate>Thu, 13 Feb 2025 10:27:14 +0800</pubDate>
-      <guid>http://localhost:1313/categories/daily-blog/</guid>
+      <guid>https://vit8000.github.io/categories/daily-blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Dail Blog</title>
-      <link>http://localhost:1313/categories/dail-blog/</link>
+      <link>https://vit8000.github.io/categories/dail-blog/</link>
       <pubDate>Mon, 10 Feb 2025 10:27:14 +0800</pubDate>
-      <guid>http://localhost:1313/categories/dail-blog/</guid>
+      <guid>https://vit8000.github.io/categories/dail-blog/</guid>
       <description></description>
     </item>
   </channel>
