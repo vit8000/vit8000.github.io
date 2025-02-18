@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 塔下生活</title>
-    <link>https://vit8000.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on 塔下生活</description>
     <generator>Hugo</generator>
     <language>zn-ch</language>
-    <lastBuildDate>Sun, 16 Feb 2025 10:27:14 +0800</lastBuildDate>
-    <atom:link href="https://vit8000.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Feb 2025 10:27:14 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>博客</title>
-      <link>https://vit8000.github.io/tags/%E5%8D%9A%E5%AE%A2/</link>
-      <pubDate>Sun, 16 Feb 2025 10:27:14 +0800</pubDate>
-      <guid>https://vit8000.github.io/tags/%E5%8D%9A%E5%AE%A2/</guid>
+      <title>书</title>
+      <link>http://localhost:1313/tags/%E4%B9%A6/</link>
+      <pubDate>Mon, 17 Feb 2025 10:27:14 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E4%B9%A6/</guid>
       <description></description>
     </item>
     <item>
       <title>瑜伽</title>
-      <link>https://vit8000.github.io/tags/%E7%91%9C%E4%BC%BD/</link>
+      <link>http://localhost:1313/tags/%E7%91%9C%E4%BC%BD/</link>
+      <pubDate>Mon, 17 Feb 2025 10:27:14 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E7%91%9C%E4%BC%BD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>博客</title>
+      <link>http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Sun, 16 Feb 2025 10:27:14 +0800</pubDate>
-      <guid>https://vit8000.github.io/tags/%E7%91%9C%E4%BC%BD/</guid>
+      <guid>http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2/</guid>
       <description></description>
     </item>
     <item>
       <title>装备</title>
-      <link>https://vit8000.github.io/tags/%E8%A3%85%E5%A4%87/</link>
+      <link>http://localhost:1313/tags/%E8%A3%85%E5%A4%87/</link>
       <pubDate>Sun, 16 Feb 2025 10:27:14 +0800</pubDate>
-      <guid>https://vit8000.github.io/tags/%E8%A3%85%E5%A4%87/</guid>
+      <guid>http://localhost:1313/tags/%E8%A3%85%E5%A4%87/</guid>
       <description></description>
     </item>
     <item>
       <title>攀岩</title>
-      <link>https://vit8000.github.io/tags/%E6%94%80%E5%B2%A9/</link>
+      <link>http://localhost:1313/tags/%E6%94%80%E5%B2%A9/</link>
       <pubDate>Sat, 15 Feb 2025 10:27:14 +0800</pubDate>
-      <guid>https://vit8000.github.io/tags/%E6%94%80%E5%B2%A9/</guid>
+      <guid>http://localhost:1313/tags/%E6%94%80%E5%B2%A9/</guid>
       <description></description>
     </item>
     <item>
       <title>食住行</title>
-      <link>https://vit8000.github.io/tags/%E9%A3%9F%E4%BD%8F%E8%A1%8C/</link>
+      <link>http://localhost:1313/tags/%E9%A3%9F%E4%BD%8F%E8%A1%8C/</link>
       <pubDate>Sat, 15 Feb 2025 10:27:14 +0800</pubDate>
-      <guid>https://vit8000.github.io/tags/%E9%A3%9F%E4%BD%8F%E8%A1%8C/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>书</title>
-      <link>https://vit8000.github.io/tags/%E4%B9%A6/</link>
-      <pubDate>Fri, 14 Feb 2025 10:28:14 +0800</pubDate>
-      <guid>https://vit8000.github.io/tags/%E4%B9%A6/</guid>
+      <guid>http://localhost:1313/tags/%E9%A3%9F%E4%BD%8F%E8%A1%8C/</guid>
       <description></description>
     </item>
   </channel>
