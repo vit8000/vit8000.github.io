@@ -3,27 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-20T10:27:14+08:00</lastmod>
+    <lastmod>2025-02-22T10:27:14+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/daily/2025-02-20/</loc>
-    <lastmod>2025-02-20T10:27:14+08:00</lastmod>
+    <loc>http://localhost:1313/daily/2025-02-22/</loc>
+    <lastmod>2025-02-22T10:27:14+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/daily/2025-02-23/</loc>
+    <lastmod>2025-02-22T10:27:14+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-02-20T10:27:14+08:00</lastmod>
+    <lastmod>2025-02-22T10:27:14+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/daily/</loc>
-    <lastmod>2025-02-20T10:27:14+08:00</lastmod>
+    <lastmod>2025-02-22T10:27:14+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/daily-blog/</loc>
-    <lastmod>2025-02-20T10:27:14+08:00</lastmod>
+    <lastmod>2025-02-22T10:27:14+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-02-20T10:27:14+08:00</lastmod>
+    <lastmod>2025-02-22T10:27:14+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E6%B8%B8%E6%88%8F/</loc>
-    <lastmod>2025-02-20T10:27:14+08:00</lastmod>
+    <lastmod>2025-02-22T10:27:14+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/daily/2025-02-21/</loc>
+    <lastmod>2025-02-21T10:27:14+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E7%91%9C%E4%BC%BD/</loc>
+    <lastmod>2025-02-21T10:27:14+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2025-02-21T10:27:14+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/daily/2025-02-20/</loc>
     <lastmod>2025-02-20T10:27:14+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/daily/2025-02-19/</loc>
